@@ -1,4 +1,4 @@
-### Hey There, i'm Franzen Jean
+### Hey There, I'm Franzen Jean
 
 <!--
 **Kazai0/kazai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
