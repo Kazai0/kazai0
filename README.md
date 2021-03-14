@@ -6,6 +6,6 @@
 ### About me
 
 
-- :computer: I am a back-end Developer for web
+- :computer: I'm a back-end Developer for web
 - 🔭 I’m currently working on PLIN SOLUCTIONS
 - :books:  I’m currently learning JAVASCRIPT, HTML, CSS, NODE, JAVA, SPRING, MYSQL, POSTGRELL
