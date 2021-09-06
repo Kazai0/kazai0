@@ -7,5 +7,5 @@
 
 
 - :computer: I'm a back-end Developer for web
-- 🔭 I’m currently working on PLIN SOLUCTIONS
+- 🔭 I’m currently working on DX.CO
 - :books:  I’m currently learning JAVASCRIPT, HTML, CSS, NODE, JAVA, SPRING, MYSQL, POSTGRELL
