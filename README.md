@@ -6,6 +6,6 @@
 ### About me
 
 
-- :computer: I'm a back-end Developer for web
-- 🔭 I’m currently working on DX.CO
-- :books:  I’m currently learning JAVASCRIPT, HTML, CSS, NODE, JAVA, SPRING, MYSQL, POSTGRELL
+- :computer: I'm a Full-Stack Developer 
+- 🔭 I’m currently Group Four
+- :books:  I’m work with NODE, REACT, GOLANG, JAVA, MYSQL, POSTGRELL, MONGODB
